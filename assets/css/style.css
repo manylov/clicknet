@@ -59,6 +59,7 @@ a, a:hover {
 	text-shadow: 0 1px 7px rgba(0,0,0,.2);
 	text-transform: uppercase;
 	letter-spacing: -2px;
+	line-height: 40px;
 }
 .coming-soon h3 {
 	font-size: 16px;
